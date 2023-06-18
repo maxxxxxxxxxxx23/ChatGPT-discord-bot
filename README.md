@@ -23,12 +23,19 @@ Discord Developer Portal: https://discord.com/developers/applications
 8. Select the 'bot' scope.
 
 9. Then under 'Bot permissions'. Select: 
+
 Send Messages: Allows the bot to send messages in text channels.
+
 Read Message History: Allows the bot to access the message history of text channels.
+
 Embed Links: Allows the bot to include rich embeds in messages.
+
 Mention Everyone: Allows the bot to mention @everyone and @here in messages.
+
 Add Reactions: Allows the bot to add reactions to messages.
+
 Use External Emojis: Allows the bot to use emojis from other servers.
+
 
 (permissions=274878383168&scope=bot)
 
